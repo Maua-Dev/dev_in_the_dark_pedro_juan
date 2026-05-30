@@ -13,3 +13,14 @@
   --yellow: #ffdf00;
   --blue: #002776;
 }
+
+body{
+  color = 'green': #009c3b;
+  color = 'yellow': #ffdf00;
+  color = 'blue': #002776;
+}
+
+.img{
+  size-adjust: 30px;
+  position: center;
+}
