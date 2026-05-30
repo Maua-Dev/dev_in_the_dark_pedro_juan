@@ -12,3 +12,13 @@
   --red: #bf2626;
   --blue: #021f59;
 }
+.img.apaixonado{
+  position: relative;
+  background-color: #021f59;
+  size: 30px;
+}
+img.choro{
+  position: relative;
+  background-color: #bf2626;
+  size: 30px;
+}
