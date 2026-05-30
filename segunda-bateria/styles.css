@@ -12,12 +12,12 @@
   --red: #bf2626;
   --blue: #021f59;
 }
-.img.apaixonado{
+.apaixonado{
   position: relative;
   background-color: #021f59;
   size: 30px;
 }
-img.choro{
+.choro{
   position: relative;
   background-color: #bf2626;
   size: 30px;

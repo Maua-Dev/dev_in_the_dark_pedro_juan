@@ -12,3 +12,24 @@
   --purple: #a10aa4;
   --blue: #021f59;
 }
+
+h1{
+  font-family: "Poppins", sans-serif;
+  width: 30px;
+  color = "black";
+  background-color: #a10aa4;
+}
+.polvo{
+  position: static;
+  size: 20px;
+
+}
+.vs{
+  position: static;
+  position-area: center;
+  size: 20px;
+}
+.minecraft{
+  position: static;
+  size: 20px;
+}
